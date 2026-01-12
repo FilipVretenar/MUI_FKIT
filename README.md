@@ -6,7 +6,7 @@ Ova bilježnica potrebna je za rješavanje seminarskoga zadatka
 ## Otvori bilježnicu
 Kliknite na gumb ispod kako biste otvorili bilježnicu u Google Colabu:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Chavlek/MUI/blob/main/MUI_Seminarski_ImePrezime.ipynb)
+https://colab.research.google.com/github/FilipVretenar/MUI_FKIT/blob/main/MUI_Seminarski_ImePrezime.ipynb
 
 ## Spremanje i pokretanje
 
